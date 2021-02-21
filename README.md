@@ -10,6 +10,6 @@ This is a normal android project.
 
 
 
-#  there are 19 type of oeration are done in this project 
+#  There are 19 types of operation are done in this project 
 
 # I have learn this project and then do it myself then make this project for all .
